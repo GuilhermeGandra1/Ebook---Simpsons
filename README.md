@@ -1,2 +1,2 @@
 # Ebook---Simpsons
-Ebook temático sobre CSS 
+Ebook sobre CSS com a temática dos Simpsons
